@@ -1,1 +1,2 @@
-*.md linguist-language=Haskell
+*.MD linguist-language=Haskell
+*.pdf linguist-language=Haskell
