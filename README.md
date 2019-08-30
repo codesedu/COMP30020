@@ -13,7 +13,7 @@ COMP30020 - 墨尔本大学计算机课程 COMP30020 全程满分攻略
 
 首先是我的分析, 手稿，就不敲了，上图，每个 `guess` 总共五种情况，说白了就是每种情况都去分析，根据 `feedback` 计算下一次`guess`， 直到`guess`全部正确
 
-![proj1_1](project 1/pic/proj1_1.jpg)
+![proj1_1](project%201/pic/proj1_1.jpg)
 
 ### 2. 编译
 编译就是常规的haskell编译方式：
